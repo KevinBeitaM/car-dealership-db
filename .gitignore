@@ -1,0 +1,35 @@
+# Respaldos de base de datos
+*.sql.gz
+*.sql.zip
+backup/
+dumps/
+
+# Configuración
+config.ini
+db_config.php
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+tmp/
+temp/
+*.tmp
+
+# Credenciales
+credentials.txt
+passwords.txt
