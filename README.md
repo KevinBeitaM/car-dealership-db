@@ -565,7 +565,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 **Kevin Beita M**
 
 - GitHub: [@KevinBeitaM](https://github.com/KevinBeitaM)
-- LinkedIn: [Kevin Beita M](https://linkedin.com/in/kevinbeitam)
+- LinkedIn: [Kevin Beita M](https://www.linkedin.com/in/kevin-beita-mar%C3%ADn/)
 
 
 
